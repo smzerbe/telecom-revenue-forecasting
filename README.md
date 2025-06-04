@@ -30,7 +30,6 @@ This project builds a time series forecasting model using SARIMAX to predict dai
 | File | Description |
 |------|-------------|
 | `Time Series Forecasting.ipynb` | Main notebook with EDA, modeling, and forecasting |
-| `Time series HTML.html` | Rendered version of the notebook for easy preview |
 | `teleco_time_series.csv` | Raw time series dataset containing revenue data |
 
 ---
@@ -40,7 +39,6 @@ This project builds a time series forecasting model using SARIMAX to predict dai
 You can preview the .ipynb file on GitHub or use the direct link below for a fully rendered version.
 [View notebook on nbviewer](https://nbviewer.org/github/smzerbe/telecom-revenue-forecasting/blob/main/Time%20Series%20Forecasting.ipynb)
 
-Additionally, you can also open the included .html file locally in any browser. 
 
 ---
 
